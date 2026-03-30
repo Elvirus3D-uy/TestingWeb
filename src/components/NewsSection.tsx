@@ -4,6 +4,25 @@ import AdminPinDialog from "./AdminPinDialog";
 import AdminNewsForm from "./AdminNewsForm";
 
 const newsItems = [
+    {
+    image: "public/Recursos/VirusFutbolWeb.webp",
+    date: "1 de abril del 2026",
+    title: "Virus Fútbol Web se actualiza el 1 de abril con importantes novedades multijugador",
+    content:
+      "El próximo 1 de abril de 2026, Virus Fútbol Web recibirá una nueva actualización que marca un paso clave en la evolución del proyecto, incorporando mejoras significativas orientadas a la experiencia multijugador y a la personalización de los usuarios.
+
+Entre las principales novedades, se destaca la posibilidad de disputar partidas con hasta 8 jugadores humanos simultáneamente, donde cada participante podrá tomar el control de un equipo. Esta funcionalidad amplía considerablemente el componente competitivo y social del juego, acercándolo a una experiencia más dinámica y colaborativa.
+
+Además, se incorpora la opción de que cada jugador pueda definir su nombre de entrenador, añadiendo un nivel adicional de identidad dentro de cada partida. Este cambio no solo mejora la inmersión, sino que también sienta las bases para futuras funcionalidades relacionadas con perfiles y progresión.
+
+En términos de jugabilidad, el sistema continúa evolucionando de forma incremental. Esta actualización forma parte de un proceso continuo cuyo objetivo es alcanzar, a lo largo de este año, una experiencia de juego completa y pulida.
+
+Por otro lado, se introduce soporte ampliado para distintos dispositivos de entrada. A partir de esta versión, los jugadores podrán interactuar utilizando mando, teclado y mouse, o controles táctiles optimizados, adaptándose así a múltiples plataformas y estilos de juego.
+
+Esta actualización representa un avance importante en el desarrollo de Virus Fútbol Web, consolidando su enfoque en la accesibilidad, el multijugador y la mejora progresiva de la jugabilidad.
+
+Se espera que en los próximos meses continúen llegando nuevas funcionalidades que profundicen aún más la experiencia del usuario.",
+  },
   {
     image: "/Recursos/VirusFutbolWeb.webp",
     date: "Domingo, 1 de marzo del 2026",
