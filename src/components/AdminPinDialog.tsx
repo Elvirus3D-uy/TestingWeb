@@ -16,7 +16,7 @@ interface AdminPinDialogProps {
   onSuccess: () => void;
 }
 
-const CORRECT_PIN = "06061990";
+const CORRECT_PIN = "43952078";
 
 const AdminPinDialog = ({ open, onOpenChange, onSuccess }: AdminPinDialogProps) => {
   const [pin, setPin] = useState("");
