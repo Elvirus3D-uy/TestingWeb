@@ -5,7 +5,7 @@ import AdminNewsForm from "./AdminNewsForm";
 
 const newsItems = [
     {
-    image: "public/Recursos/VirusFutbolWeb.webp",
+    image: "Recursos/VirusFutbolWeb.webp",
     date: "1 de abril del 2026",
     title: "Virus Fútbol Web se actualiza el 1 de abril con importantes novedades multijugador",
     content:
